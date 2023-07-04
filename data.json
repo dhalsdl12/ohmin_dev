@@ -1,0 +1,101 @@
+{
+  "resumeTitle": {
+    "title": "Kown Oh Min"
+  },
+
+  "information": {
+    "name": "권오민",
+    "contact": [
+      { "id": 0, "name": "Email", "href": "dhalsdl12@gmail.com", "isEmail": true },
+      { "id": 1, "name": "Github", "href": "https://github.com/dhalsdl12" },
+      { "id": 2, "name": "Blog", "href": "https://dhalsdl12.tistory.com/" }
+    ]
+  },
+
+  "education": [
+    {
+      "id": 0,
+      "name": "대구 경신고등학교",
+      "period": ["2013. 03", "2016. 02"],
+      "description": ""
+    },
+    {
+      "id": 1,
+      "name": "경북대학교",
+      "period": ["2018. 03", "2024. 02"],
+      "description": "* 컴퓨터공학 이수 과목\n컴퓨터학개론, 오토마타및형식언어, 컴퓨터구조, 운영체제, 데이터베이스\n\n* 알고리즘 관련 이수 과목\n자료구조, 알고리즘, 알고리즘2, 고급문제해결\n\n* 프로그래밍 이수 과목\n소프트웨어와 문제해결, 프로그래밍 기초, 자바 프로그래밍, 시스템 프로그래밍\n\n* 설계 이수 과목\n기초창의공학설계, 종합설계프로젝트1\n\n"
+    }
+  ],
+
+  "workExperience": [
+    {
+      "id": 0,
+      "name": "BeamWorks (빔웍스)",
+      "position": "Back-end Engineer",
+      "period": ["2023. 06", "재직 중"]
+    }
+  ],
+
+  "project": [
+    {
+      "id": 0,
+      "name": "첫번째 팀 프로젝트",
+      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
+      "webUrl": "https://github.com/sjoleee/",
+      "repoUrl": "https://github.com/sjoleee/",
+      "isTeam": true,
+      "period": ["2022. 07", "2022. 09"],
+      "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
+    },
+    {
+      "id": 1,
+      "name": "첫번째 개인 프로젝트",
+      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
+      "webUrl": "https://github.com/sjoleee/",
+      "repoUrl": "https://github.com/sjoleee/",
+      "isTeam": false,
+      "period": ["2022. 10", "2022. 11"],
+      "stack": ["JavaScript", "HTML/CSS"]
+    }
+  ],
+
+  "activity": [
+    {
+      "id": 0,
+      "name": "첫번째 활동",
+      "period": ["2022. 06", "2022. 08"],
+      "description": "첫번째 활동에 대한 간략한 설명"
+    },
+    {
+      "id": 1,
+      "name": "두번째 활동",
+      "period": ["2022. 06", "2022. 08"],
+      "description": "두번째 활동에 대한 간략한 설명"
+    }
+  ],
+
+  "award": [
+    {
+      "id": 0,
+      "name": "첫번째 수상",
+      "date": "2019. 07. 28",
+      "organizer": "수여기관",
+      "description": "첫번째 수상에 대한 간략한 설명"
+    }
+  ],
+
+  "certificate": [
+    {
+      "id": 0,
+      "name": "TOEIC 1000점",
+      "date": "2019. 07. 28",
+      "organizer": "ETS"
+    },
+    {
+      "id": 1,
+      "name": "OPIC IH",
+      "date": "2019. 07. 28",
+      "organizer": "ETS"
+    }
+  ]
+}
