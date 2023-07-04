@@ -9,7 +9,8 @@ const AwardItem = ({ name, date, organizer, description }: AwardProps) => {
           <span>{date}</span>
         </div>
         <span>{organizer}</span>
-        <span className="whitespace-pre-wrap">{`${description}`}</span>
+        {/* <span className="whitespace-pre-wrap">{`${description}`}</span> */}
+        <span className="whitespace-pre-wrap">{`${description[0]}${description[1] ? "\n" + description[1] : ""}`}</span>
       </div>
     </div>
   );

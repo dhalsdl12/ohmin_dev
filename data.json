@@ -77,10 +77,11 @@
   "award": [
     {
       "id": 0,
-      "name": "첫번째 수상",
-      "date": "2019. 07. 28",
+      "name": "경북대학교 총장상",
+      "date": "2022. 10. 28",
       "organizer": "수여기관",
-      "description": "첫번째 수상에 대한 간략한 설명"
+      "description": ["2022 Global Innovator Festa 청년리그 로봇/레고 분야",
+                      "https://www.gifesta.kr/page/p1"]
     }
   ],
 
