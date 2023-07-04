@@ -79,23 +79,41 @@
       "id": 0,
       "name": "경북대학교 총장상",
       "date": "2022. 10. 28",
-      "organizer": "수여기관",
+      "organizer": "대구광역시",
       "description": ["2022 Global Innovator Festa 청년리그 로봇/레고 분야",
+                      "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=2&aid=257011"]
+    },
+    {
+      "id": 1,
+      "name": "장려상",
+      "date": "2022. 11. 24",
+      "organizer": "경북대학교 소프트웨어교육원",
+      "description": ["2022 경북대학교 Goricon 알고리즘 경진대회",
+                      "https://computer.knu.ac.kr/bbs/board.php?bo_table=sub5_1&wr_id=26798&sca=%EC%9D%BC%EB%B0%98%EA%B3%B5%EC%A7%80&sfl=wr_subject&stx=gori&sop=and"]
+    },
+    {
+      "id": 2,
+      "name": "Good RIder상",
+      "date": "2022. 12. 02",
+      "organizer": "CJ 올리브네트웍스",
+      "description": ["CJ Remote Internship",
                       "https://www.gifesta.kr/page/p1"]
-    }
+    },
+    {
+      "id": 3,
+      "name": "대상",
+      "date": "2023. 01. 27",
+      "organizer": "대구 디지털혁신진흥원",
+      "description": ["2023 창업해커톤 BUNNYTHON",
+                      "https://www.gifesta.kr/page/p1"]
+    } 
   ],
 
   "certificate": [
     {
       "id": 0,
-      "name": "TOEIC 1000점",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
-    },
-    {
-      "id": 1,
-      "name": "OPIC IH",
-      "date": "2019. 07. 28",
+      "name": "TOEIC 650점",
+      "date": "2023. 05. 28",
       "organizer": "ETS"
     }
   ]
