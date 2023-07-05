@@ -53,6 +53,7 @@ export interface DataProps {
     description: string[];
     period: string[];
     stack: string[];
+    view: string;
   }[];
   education: {
     id: number;

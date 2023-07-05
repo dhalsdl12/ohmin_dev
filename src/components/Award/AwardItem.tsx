@@ -28,8 +28,8 @@ const AwardItem = ({  id, name, date, organizer,
           <Image
             src={`/images/award/${id}.png`} // imgSrc 변수를 사용하여 경로 동적 생성
             alt="test"
-            width="200"
-            height="200"
+            width="230"
+            height="230"
             className="object-cover rounded-lg border-[1px] border-GRAY_LIGHT border-solid w-50 h-50"
           
           />
@@ -44,15 +44,14 @@ const AwardItem = ({  id, name, date, organizer,
         </div>
         */}
       </div>
-      <div className="md:border-GRAY_LIGHT md:border-solid md:border-l-[1px] md:pl-4 markdown w-full">
-        <div className="w-48">
+      <div className="flex flex-col md:flex-row gap-6 md:gap-0">
+        <div className="flex flex-col gap-2">
           <h3>{name}</h3>
           <div className="flex flex-col">
             <span className="m-0">{organizer}</span>
             <span>{date}</span>
           </div>
-        </div>
-        <div className="flex gap-1 flex-wrap">
+          <div className="flex gap-1 flex-wrap">
           {stack.map((stack) => (
             <span
               key={stack}
@@ -63,9 +62,10 @@ const AwardItem = ({  id, name, date, organizer,
           ))}
         </div>
         <span className="whitespace-pre-wrap">
-          {`${description[0]}\n`}
-          <a href={description[1]}>VIEW</a>
+          {`${description[0]}\n\n`}
+          <a href={description[1]}>VIEW AWARD</a>
         </span>
+        </div>
         {/*{`${description[0]}${description[1] ? "\n" + description[1] : ""}`}*/}
       </div>
     </div>

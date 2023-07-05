@@ -42,8 +42,6 @@
       "id": 0,
       "name": "일정 공유 및 추천 앱",
       "description": "경북대학교 동아리 앱동",
-      "webUrl": "https://github.com/dhalsdl12/",
-      "repoUrl": "https://github.com/dhalsdl12/",
       "isTeam": true,
       "period": ["2021. 09", "2021. 12"],
       "stack": ["Andriod Studio", "Java"]
@@ -52,8 +50,8 @@
       "id": 1,
       "name": "제주도 내 렌터카 교통사고의 경중 분석",
       "description": "CJ 올리브네트웍스 Remote Internship",
-      "webUrl": "https://github.com/dhalsdl12/",
-      "repoUrl": "https://github.com/dhalsdl12/",
+      "webUrl": "/pdf/project/1.pdf",
+      "repoUrl": "https://colab.research.google.com/drive/1rDq5JHi5bAYyAijP2s4QUdNjSK9kuN5f",
       "isTeam": true,
       "period": ["2022. 09", "2022. 11"],
       "stack": ["CI/CD", "Python", "Django"]
@@ -62,8 +60,8 @@
       "id": 2,
       "name": "온라인 번역 플랫폼과 CI/CD를 활용한 국제화 프로세스 개선 아키텍처",
       "description": "경북대학교 컴퓨터학부 종합 설계 프로젝트 1",
-      "webUrl": "https://github.com/dhalsdl12/",
-      "repoUrl": "https://github.com/dhalsdl12/",
+      "webUrl": "/pdf/project/2.pdf",
+      "repoUrl": "https://github.com/devrel-kr/I18N-For-Beginners",
       "isTeam": true,
       "period": ["2022. 09", "2022. 12"],
       "stack": ["CI/CD", "Python", "Django"]
@@ -93,7 +91,8 @@
       "name": "CJ Remote Internship",
       "period": ["2022. 09", "2022. 11"],
       "description": ["청년친환경 기업 ESG 지원 사업 - Remote Internship Program", "데이터 분석 PBL 진행"],
-      "stack": ["Data Analysis", "Python", "pandas", "seaborn", "matplotlib", "sklearn"]
+      "stack": ["Data Analysis", "Python", "pandas", "seaborn", "matplotlib", "sklearn"],
+      "view":"/pdf/activity/1.pdf"
     },
     {
       "id": 2,
@@ -129,8 +128,8 @@
       "date": "2022. 12. 02",
       "organizer": "CJ 올리브네트웍스",
       "stack": ["Python", "Data Analysis"],
-      "description": ["CJ Remote Internship",
-                      "https://www.gifesta.kr/page/p1"]
+      "description": ["CJ Remote Internship\n데이터 분석 PBL과정 우수 참가자상 수상",
+                      "/pdf/award/2.pdf"]
     },
     {
       "id": 3,
@@ -138,8 +137,8 @@
       "date": "2023. 01. 27",
       "organizer": "대구 디지털혁신진흥원",
       "stack": ["Python", "Flask", "협업 능력 (소통)"],
-      "description": ["2023 창업해커톤 BUNNYTHON",
-                      "https://www.gifesta.kr/page/p1"]
+      "description": ["2023 창업해커톤 BUNNYTHON\n주민들의 소비를 유도해 지역 상권을 살리는 서비스 개발",
+                      "https://www.yeongnam.com/web/view.php?key=20230129010003598"]
     } 
   ],
 

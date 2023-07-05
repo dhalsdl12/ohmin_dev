@@ -3,17 +3,19 @@ const ActivityItem = ({
   period,
   description,
   stack,
+  view,
 }: {
   name: string;
   period: string[];
   description: string[];
   stack: string[];
+  view: string;
 }) => {
   return (
     <div className="flex flex-col md:flex-row gap-6 md:gap-0">
       <div className="flex flex-col gap-2">
+        <h3>{name}</h3>
         <div className="flex flex-col">
-          <h3>{name}</h3>
           <span>{`${period[0]}${period[1] ? " - " + period[1] : ""}`}</span>
         </div>
         <div className="flex gap-1 flex-wrap">
@@ -34,6 +36,11 @@ const ActivityItem = ({
             </span>
           ))}
         </div>
+        <span className="whitespace-pre-wrap">
+          <a href={view}>{`${view? "\nVIEW ACTIVITY": ""}`}</a>
+        </span>
+        
+        {/*{`${description[0]}${description[1] ? "\n" + description[1] : ""}`}*/}
       </div>
     </div>
   );

@@ -7,6 +7,7 @@ import Links from "./Links";
 import { ProjectProps } from "@/types";
 
 const ProjectItem = ({
+  id,
   name,
   description,
   repoUrl,
