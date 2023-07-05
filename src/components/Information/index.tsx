@@ -1,5 +1,6 @@
 import ContactItem from "../ContactItem";
 import Introduce from "./Introduce";
+import Image from "next/image";
 
 import { DataProps } from "@/types";
 
@@ -9,7 +10,11 @@ const Information = ({ information }: Pick<DataProps, "information">) => {
     <div className="flex flex-col gap-8">
       <div className="flex flex-col gap-2">
         <div className="flex gap-4">
-          <img src="/images/information/0.png" alt="test" width={150} height={150}/>
+          <img
+            src="/images/information/introduce.png" 
+            alt="test" 
+            width="150" height="150"
+          />
           <div className="grid grid-rows-auto gap-2">
             <h1 className="leading-[1.15]">
               {/* 포지션에 맞게 문구를 수정해주세요. 혹은, 본인이 원하는 대로 문구를 바꿔주세요. */}

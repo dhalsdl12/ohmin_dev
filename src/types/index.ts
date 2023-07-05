@@ -11,6 +11,7 @@ export interface WorkExperienceProps {
   description?: string;
   position: string;
   period: string[];
+  stack: string[];
   markdown?: string;
   imgSrc?: string;
 }
@@ -33,7 +34,10 @@ export interface AwardProps {
   name: string;
   date: string;
   organizer: string;
-  description: string;
+  description: string[];
+  stack: string[];
+  markdown?: string;
+  imgSrc?: string;
 }
 
 export interface DataProps {
@@ -48,6 +52,7 @@ export interface DataProps {
     name: string;
     description: string;
     period: string[];
+    stack: string[];
   }[];
   education: {
     id: number;

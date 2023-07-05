@@ -105,13 +105,13 @@ const getImgSrc = async ({
   section: string;
   item: InformationProps | ProjectProps | WorkExperienceProps;
 }) => {
-  const imgSrc = `/images/${section}/${"id" in item ? item.id : "profile"}.png`;
+  const imgSrc = `/images/${section}/${"id" in item ? item.id : "introduce"}.png`;
   const filePath = path.join(process.cwd(), "public", imgSrc);
   try {
     await fs.stat(filePath);
     return { ...item, imgSrc: imgSrc };
   } catch {
-    console.log("no img");
+    console.log({section}, "no img");
     return item;
   }
 };
