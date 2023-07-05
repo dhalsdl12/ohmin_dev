@@ -56,7 +56,7 @@ const AwardItem = ({  id, name, date, organizer,
           {stack.map((stack) => (
             <span
               key={stack}
-              className=" bg-BLACK dark:bg-white  py-[2px] px-1.5 rounded-md text-xs font-medium font-mono whitespace-nowrap text-white dark:text-BLACK"
+              className=" bg-BLACK dark:bg-white py-[2px] px-1.5 rounded-md text-xs font-medium font-mono whitespace-nowrap text-white dark:text-BLACK"
             >
               {stack}
             </span>
@@ -64,7 +64,7 @@ const AwardItem = ({  id, name, date, organizer,
         </div>
         <span className="whitespace-pre-wrap">
           {`${description[0]}\n`}
-          <a href={description[1]}>LINK</a>
+          <a href={description[1]}>VIEW</a>
         </span>
         {/*{`${description[0]}${description[1] ? "\n" + description[1] : ""}`}*/}
       </div>

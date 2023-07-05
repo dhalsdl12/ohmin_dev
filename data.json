@@ -40,16 +40,36 @@
   "project": [
     {
       "id": 0,
-      "name": "첫번째 팀 프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
+      "name": "일정 공유 및 추천 앱",
+      "description": "경북대학교 동아리 앱동",
       "webUrl": "https://github.com/dhalsdl12/",
       "repoUrl": "https://github.com/dhalsdl12/",
       "isTeam": true,
-      "period": ["2022. 07", "2022. 09"],
-      "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
+      "period": ["2021. 09", "2021. 12"],
+      "stack": ["Andriod Studio", "Java"]
     },
     {
       "id": 1,
+      "name": "제주도 내 렌터카 교통사고의 경중 분석",
+      "description": "CJ 올리브네트웍스 Remote Internship",
+      "webUrl": "https://github.com/dhalsdl12/",
+      "repoUrl": "https://github.com/dhalsdl12/",
+      "isTeam": true,
+      "period": ["2022. 09", "2022. 11"],
+      "stack": ["CI/CD", "Python", "Django"]
+    },
+    {
+      "id": 2,
+      "name": "온라인 번역 플랫폼과 CI/CD를 활용한 국제화 프로세스 개선 아키텍처",
+      "description": "경북대학교 컴퓨터학부 종합 설계 프로젝트 1",
+      "webUrl": "https://github.com/dhalsdl12/",
+      "repoUrl": "https://github.com/dhalsdl12/",
+      "isTeam": true,
+      "period": ["2022. 09", "2022. 12"],
+      "stack": ["CI/CD", "Python", "Django"]
+    },
+    {
+      "id": 3,
       "name": "첫번째 개인 프로젝트",
       "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
       "webUrl": "https://github.com/dhalsdl12/",
@@ -63,16 +83,23 @@
   "activity": [
     {
       "id": 0,
-      "name": "CJ Remote Internship",
-      "period": ["2022. 09", "2022. 11"],
-      "description": "첫번째 활동에 대한 간략한 설명",
-      "stack": ["Python", "data analysis"]
+      "name": "경북대학교 프로그래밍 기초 TA",
+      "period": ["2021. 12", "2022. 2"],
+      "description": ["프로그래밍 기초 (C언어) 학부 수업 Tutor"],
+      "stack": ["C", "소통"]
     },
     {
       "id": 1,
+      "name": "CJ Remote Internship",
+      "period": ["2022. 09", "2022. 11"],
+      "description": ["청년친환경 기업 ESG 지원 사업 - Remote Internship Program", "데이터 분석 PBL 진행"],
+      "stack": ["Data Analysis", "Python", "pandas", "seaborn", "matplotlib", "sklearn"]
+    },
+    {
+      "id": 2,
       "name": "LG Aimers",
       "period": ["2023. 07", "활동 중"],
-      "description": "두번째 활동에 대한 간략한 설명",
+      "description": ["LG Aimers"],
       "stack": ["Python", "Tensorflow"]
     }
   ],
@@ -83,7 +110,7 @@
       "name": "경북대학교 총장상",
       "date": "2022. 10. 28",
       "organizer": "대구광역시",
-      "stack": ["Python", "Tensorflow"],
+      "stack": ["Spike Prime", "협업 능력 (소통)", "문제 해결 능력"],
       "description": ["2022 Global Innovator Festa 청년리그 로봇/레고 분야",
                       "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=2&aid=257011"]
     },
@@ -92,7 +119,7 @@
       "name": "장려상",
       "date": "2022. 11. 24",
       "organizer": "경북대학교 소프트웨어교육원",
-      "stack": ["Python", "Tensorflow"],
+      "stack": ["Python (알고리즘)", "문제 해결 능력  "],
       "description": ["2022 경북대학교 Goricon 알고리즘 경진대회",
                       "https://computer.knu.ac.kr/bbs/board.php?bo_table=sub5_1&wr_id=26798&sca=%EC%9D%BC%EB%B0%98%EA%B3%B5%EC%A7%80&sfl=wr_subject&stx=gori&sop=and"]
     },
@@ -101,7 +128,7 @@
       "name": "Good RIder상",
       "date": "2022. 12. 02",
       "organizer": "CJ 올리브네트웍스",
-      "stack": ["Python", "Tensorflow"],
+      "stack": ["Python", "Data Analysis"],
       "description": ["CJ Remote Internship",
                       "https://www.gifesta.kr/page/p1"]
     },
@@ -110,7 +137,7 @@
       "name": "대상",
       "date": "2023. 01. 27",
       "organizer": "대구 디지털혁신진흥원",
-      "stack": ["Python", "Tensorflow"],
+      "stack": ["Python", "Flask", "협업 능력 (소통)"],
       "description": ["2023 창업해커톤 BUNNYTHON",
                       "https://www.gifesta.kr/page/p1"]
     } 

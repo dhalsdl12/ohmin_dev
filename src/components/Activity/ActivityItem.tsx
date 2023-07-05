@@ -6,7 +6,7 @@ const ActivityItem = ({
 }: {
   name: string;
   period: string[];
-  description: string;
+  description: string[];
   stack: string[];
 }) => {
   return (
@@ -26,7 +26,14 @@ const ActivityItem = ({
               </span>
             ))}
           </div>
-        <span className="whitespace-pre-wrap">{`${description}`}</span>
+          <div className="whitespace-pre-wrap">
+          {description.map((desc, index) => (
+            <span key={index}>
+              {desc}
+              {index !== description.length - 1 ? "\n" : ""}
+            </span>
+          ))}
+        </div>
       </div>
     </div>
   );

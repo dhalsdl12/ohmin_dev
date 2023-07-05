@@ -26,12 +26,11 @@ const ProjectItem = ({
               width="200"
               height="200"
               alt={name}
-              className="object-cover rounded-lg border-[1px] border-GRAY_LIGHT dark:border-white border-solid w-24 h-24"
+              className="object-cover rounded-lg border-[1px] border-GRAY_LIGHT dark:border-white border-solid w-50 h-50"
             />
           )}
           <div className="flex flex-col gap-2">
             <div className="w-48">
-              <h3>{name}</h3>
               <div className="flex flex-col">
                 <span>{`${period[0]} - ${period[1]}`}</span>
               </div>
@@ -41,6 +40,7 @@ const ProjectItem = ({
         </div>
       </div>
       <div className="md:border-GRAY_LIGHT md:border-solid md:border-l-[1px] md:pl-4 markdown flex flex-col w-full gap-2">
+        <h3>{name}</h3>
         <div>
           <blockquote className="whitespace-pre-wrap">{`${description}`}</blockquote>
           <div className="flex gap-1 flex-wrap">

@@ -50,7 +50,7 @@ export interface DataProps {
   activity: {
     id: number;
     name: string;
-    description: string;
+    description: string[];
     period: string[];
     stack: string[];
   }[];
