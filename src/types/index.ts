@@ -55,6 +55,14 @@ export interface DataProps {
     stack: string[];
     view: string;
   }[];
+  club: {
+    id: number;
+    name: string;
+    description: string[];
+    period: string[];
+    stack: string[];
+    view: string;
+  }[];
   education: {
     id: number;
     name: string;

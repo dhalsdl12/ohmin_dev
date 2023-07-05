@@ -17,6 +17,7 @@ const Project = ({ project }: Pick<DataProps, "project">) => {
             ))}
         </div>
       </div>
+      {/*
       <div>
         <SectionTitle>Personal Project</SectionTitle>
         <div className="flex flex-col gap-24">
@@ -28,6 +29,7 @@ const Project = ({ project }: Pick<DataProps, "project">) => {
             ))}
         </div>
       </div>
+      */}
     </>
   );
 };

@@ -15,6 +15,7 @@ import ResumeTitle from "@/components/ResumeTitle";
 import WorkExperience from "@/components/WorkExperience";
 import { DataProps, InformationProps, ProjectProps, WorkExperienceProps } from "@/types";
 import Award from "@/components/Award";
+import Club from "@/components/Club";
 
 
 const Home: NextPage<DataProps> = ({
@@ -24,6 +25,7 @@ const Home: NextPage<DataProps> = ({
   workExperience,
   project,
   activity,
+  club,
   award,
   certificate,
 }) => {
@@ -37,6 +39,7 @@ const Home: NextPage<DataProps> = ({
         <WorkExperience workExperience={workExperience} />
         <Project project={project} />
         <Activity activity={activity} />
+        <Club club={club} />
         <Award award={award} />
         <Certificate certificate={certificate} />
       </Layout>
