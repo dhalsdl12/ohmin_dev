@@ -1,6 +1,6 @@
 {
   "resumeTitle": {
-    "title": "Kown Oh Min"
+    "title": "Kwon Oh Min"
   },
 
   "information": {
@@ -17,7 +17,7 @@
       "id": 0,
       "name": "대구 경신고등학교",
       "period": ["2013. 03", "2016. 02"],
-      "description": ""
+      "description": "대구 경신고등학교 제 48회 졸업 (자율형 사립고 제 3회 졸업)"
     },
     {
       "id": 1,
@@ -104,9 +104,9 @@
       "id": 1,
       "name": "앱 프로그래밍 동아리 '앱동'",
       "period": ["2021. 09", "2022. 06"],
-      "description": [],
+      "description": ["'일정 공유 및 추천 앱' 개발"],
       "stack": ["Android Studio", "Java", "Notion", "Github"],
-      "view":"/pdf/activity/1.pdf"
+      "view":""
     },
     {
       "id": 2,
