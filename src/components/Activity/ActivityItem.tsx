@@ -39,7 +39,6 @@ const ActivityItem = ({
         <span className="whitespace-pre-wrap">
           <a href={view}>{`${view? "\nVIEW ACTIVITY": ""}`}</a>
         </span>
-        
         {/*{`${description[0]}${description[1] ? "\n" + description[1] : ""}`}*/}
       </div>
     </div>

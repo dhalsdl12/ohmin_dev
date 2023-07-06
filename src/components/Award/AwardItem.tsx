@@ -8,25 +8,12 @@ import { TextDecoder } from "util";
 const AwardItem = ({  id, name, date, organizer, 
                       markdown,description, stack
                     }: AwardProps) => {
-  // return (
-  //   <div className="flex flex-col md:flex-row gap-6 md:gap-0">
-  //     <div className="flex flex-col gap-2">
-  //       <div className="flex flex-col">
-  //         <h3>{name}</h3>
-  //         <span>{date}</span>
-  //       </div>
-  //       <span>{organizer}</span>
-  //       {/* <span className="whitespace-pre-wrap">{`${description}`}</span> */}
-  //       <span className="whitespace-pre-wrap">{`${description[0]}${description[1] ? "\n" + description[1] : ""}`}</span>
-  //     </div>
-  //   </div>
-  // );
   return (
     <div className="flex flex-col md:flex-row gap-6 md:gap-0">
       <div className="flex md:flex-col items-center md:items-start mr-4 gap-6">
         {`/images/award/${id}.png` && (
           <Image
-            src={`/images/award/${id}.png`} // imgSrc 변수를 사용하여 경로 동적 생성
+            src={`/images/award/${id}.png`}
             alt="test"
             width="230"
             height="230"
@@ -34,15 +21,6 @@ const AwardItem = ({  id, name, date, organizer,
           
           />
         )}
-        {/*
-        <div className="w-48">
-          <h3>{name}</h3>
-          <div className="flex flex-col">
-            <span className="m-0">{organizer}</span>
-            <span>{date}</span>
-          </div>
-        </div>
-        */}
       </div>
       <div className="flex flex-col md:flex-row gap-6 md:gap-0">
         <div className="flex flex-col gap-2">
