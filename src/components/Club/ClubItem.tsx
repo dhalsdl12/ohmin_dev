@@ -30,10 +30,10 @@ const ClubItem = ({
           </div>
           <div className="whitespace-pre-wrap">
           {description.map((desc, index) => (
-            <span key={index}>
+            <li key={index}>
               {desc}
               {index !== description.length - 1 ? "\n" : ""}
-            </span>
+            </li>
           ))}
         </div>
         <span className="whitespace-pre-wrap">

@@ -127,7 +127,8 @@
       "id": 4,
       "name": "창업동아리 '에이블릿'",
       "period": ["2023. 04", "활동 중"],
-      "description": ["경북대학교 창업동아리 에이블릿 대표", "2023 창업해커톤 BUNNYTHON 1위"],
+      "description": ["경북대학교 창업동아리 에이블릿 대표", "2023 창업해커톤 BUNNYTHON 1위",
+                      "유저 관리 기능 개발 (flask)"],
       "stack": ["Python", "Flask", "Java", "Spring", "Figma"]
     }
   ],
