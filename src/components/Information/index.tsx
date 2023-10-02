@@ -11,7 +11,7 @@ const Information = ({ information }: Pick<DataProps, "information">) => {
       <div className="flex flex-col gap-2">
         <div className="flex gap-4">
           <img
-            src="/images/information/introduce.png" 
+            src="/images/information/introduce.jpg" 
             alt="test" 
             width="150" height="150"
           />
