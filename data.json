@@ -178,7 +178,15 @@
       "id": 0,
       "name": "TOEIC 650점",
       "date": "2023. 05. 28",
+      "number": "수험번호 : 153224",
       "organizer": "ETS"
+    },
+    {
+      "id": 1,
+      "name": "OPIc IM2",
+      "date": "2023. 10. 18",
+      "number": "수험번호 : 2I0693820392",
+      "organizer": "ACTFL"
     }
   ]
 }
