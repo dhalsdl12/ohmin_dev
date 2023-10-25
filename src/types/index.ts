@@ -74,6 +74,7 @@ export interface DataProps {
     name: string;
     date: string;
     organizer: string;
+    numbers: string;
   }[];
   award: AwardProps[];
 }
