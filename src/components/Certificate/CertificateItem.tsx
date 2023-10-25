@@ -2,12 +2,10 @@ const CertificateItem = ({
   name,
   date,
   organizer,
-  numbers,
 }: {
   name: string;
   date: string;
   organizer: string;
-  numbers: string;
 }) => {
   return (
     <div className="flex flex-col md:flex-row gap-6 md:gap-0">
@@ -15,7 +13,6 @@ const CertificateItem = ({
         <div className="flex flex-col">
           <h3>{name}</h3>
           <span>{date}</span>
-          <span>{numbers}</span>
         </div>
         <span>{organizer}</span>
       </div>
