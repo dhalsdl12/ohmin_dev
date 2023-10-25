@@ -176,13 +176,19 @@
   "certificate": [
     {
       "id": 0,
-      "name": "TOEIC 650점",
+      "name": "TOPCIT 수준3 (Competent)\n수험번호 : TP22010530303",
+      "date": "2022. 05. 21",
+      "organizer": "과학기술정보통신부, 정보통신기획평가원"
+    },
+    {
+      "id": 1,
+      "name": "TOEIC 650점\n수험번호 : 153224",
       "date": "2023. 05. 28",
       "organizer": "ETS"
     },
     {
-      "id": 1,
-      "name": "OPIc IM2",
+      "id": 2,
+      "name": "OPIc IM2\n수험번호 : 2I0693820392",
       "date": "2023. 10. 18",
       "organizer": "ACTFL"
     }
