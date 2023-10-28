@@ -176,24 +176,31 @@
   "certificate": [
     {
       "id": 0,
-      "name": "TOPCIT 수준3 (Competent)",
+      "name": "TOPCIT - 수준3 (Competent)",
       "date": "2022. 05. 21",
-      "numbers": "수험번호 : TP22010530303",
+      "numbers": "자격번호 : TP22010530303",
       "organizer": "과학기술정보통신부, 정보통신기획평가원"
     },
     {
       "id": 1,
-      "name": "TOEIC 650점",
+      "name": "TOEIC - 650점",
       "date": "2023. 05. 28",
       "numbers": "수험번호 : 153224",
       "organizer": "ETS"
     },
     {
       "id": 2,
-      "name": "OPIc IM2",
+      "name": "OPIc - IM2",
       "date": "2023. 10. 18",
       "numbers": "수험번호 : 2I0693820392",
       "organizer": "ACTFL"
+    },
+    {
+      "id": 3,
+      "name": "PCCP(Python) - Lv.3",
+      "date": "2023. 10. 28",
+      "numbers": "자격번호 : 23100101JVG0PW",
+      "organizer": "(주)그렙"
     }
   ]
 }
