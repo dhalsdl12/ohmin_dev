@@ -23,7 +23,7 @@
       "id": 1,
       "name": "경북대학교 컴퓨터학부 심화컴퓨터전공",
       "period": ["2018. 03", "2024. 02"],
-      "description": "성적 : 4.06/4.5\n전공 성적 : 4.13/4.5\n\n* 컴퓨터공학 이수 과목\n컴퓨터학개론, 오토마타및형식언어, 컴퓨터구조, 운영체제, 데이터베이스\n\n* 알고리즘 관련 이수 과목\n자료구조, 알고리즘, 알고리즘2, 고급문제해결\n\n* 프로그래밍 이수 과목\n소프트웨어와 문제해결, 프로그래밍 기초, 자바 프로그래밍, 시스템 프로그래밍\n\n* 설계 이수 과목\n기초창의공학설계, 종합설계프로젝트1\n\n"
+      "description": "성적 : 4.06/4.5\n전공 성적 : 4.13/4.5\n\n* 컴퓨터공학 이수 과목\n컴퓨터학개론, 오토마타및형식언어, 컴퓨터구조, 운영체제, 데이터베이스, 인공지능\n\n* 알고리즘 관련 이수 과목\n자료구조, 자료구조 응용, 알고리즘, 알고리즘2, 고급문제해결\n\n* 프로그래밍 이수 과목\n소프트웨어와 문제해결, 프로그래밍 기초, 자바 프로그래밍, 시스템 프로그래밍\n\n* 설계 이수 과목\n기초창의공학설계, 종합설계프로젝트1, 종합설계프로젝트2\n\n"
     }
   ],
 
@@ -32,8 +32,8 @@
       "id": 0,
       "name": "BeamWorks (빔웍스)",
       "position": "연구개발팀 연구원(Back-end Engineer)",
-      "period": ["2023. 06", "재직 중"],
-      "stack": ["Python", "Django", "Django REST Framework"]
+      "period": ["2023. 06. 19", "2023. 10. 27"],
+      "stack": ["Python", "Django", "Django REST Framework", "Java", "Spring"]
     }
   ],
 
@@ -86,7 +86,7 @@
       "name": "CJ Remote Internship",
       "period": ["2022. 09", "2022. 11"],
       "description": ["청년친환경 기업 ESG 지원 사업 - Remote Internship Program", 
-                      "데이터 분석 PBL 진행",
+                      "데이터 분석 PBL 진행 - [제주도 내 렌터카 교통사고의 경중 분석]",
                       "Good RIder(우수 참가자)상 수상"],
       "stack": ["Data Analysis", "Python", "pandas", "seaborn", "matplotlib", "sklearn"],
       "view":"/pdf/activity/1.pdf"
@@ -105,7 +105,7 @@
       "id": 1,
       "name": "앱 프로그래밍 동아리 '앱동'",
       "period": ["2021. 09", "2022. 06"],
-      "description": ["'일정 공유 및 추천 앱' 개발"],
+      "description": ["Android Studio(Java) 학습", "'일정 공유 및 추천 앱' 개발"],
       "stack": ["Android Studio", "Java", "Notion", "Github"],
       "view":""
     },
@@ -114,20 +114,20 @@
       "name": "알고리즘 동아리 'Gori'",
       "period": ["2021. 09", "활동 중"],
       "description": ["2022 경북대학교 Goricon 알고리즘 경진대회 장려상 수상"],
-      "stack": ["Python", "C++"]
+      "stack": ["Python", "알고리즘"]
     },
     {
       "id": 3,
       "name": "멋쟁이 사자처럼",
       "period": ["2023. 04", "활동 중"],
-      "description": ["경북대학교 멋쟁이 사자처럼 11기", "경북대학교 아이디어톤 3위"],
+      "description": ["경북대학교 멋쟁이 사자처럼 11기", "경북대학교 아이디어톤 3위", "멋쟁이 사자처럼 전국 해커톤 참가"],
       "stack": ["Java", "Spring", "Figma"]
     }
     ,
     {
       "id": 4,
       "name": "창업동아리 '에이블릿'",
-      "period": ["2023. 04", "활동 중"],
+      "period": ["2023. 04", "2023.08"],
       "description": ["경북대학교 창업동아리 에이블릿 대표", "2023 창업해커톤 BUNNYTHON 1위",
                       "유저 관리 기능 개발 (flask)"],
       "stack": ["Python", "Flask", "Java", "Spring", "Figma"]
@@ -191,14 +191,14 @@
     {
       "id": 2,
       "name": "OPIc - IM2",
-      "date": "2023. 10. 18",
+      "date": "2023. 10. 25 ~ 2025. 10. 17 ",
       "numbers": "수험번호 : 2I0693820392",
       "organizer": "ACTFL"
     },
     {
       "id": 3,
       "name": "PCCP(Python) - Lv.3",
-      "date": "2023. 10. 28",
+      "date": "2023. 10. 28 ~ 2025. 10. 28",
       "numbers": "자격번호 : 23100101JVG0PW",
       "organizer": "(주)그렙"
     }
