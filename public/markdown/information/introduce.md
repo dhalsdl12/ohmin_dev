@@ -4,10 +4,10 @@
 
 💻Tech Stack💻  
 💡Language  
-`Python`, `C`, `Java`  
+`Python`, `C`, `Java`, `Java Script`   
 💡Framework  
-`Django`,`Django REST Framework`,`Spring`  
+`Django`,`Django REST Framework`,`Spring`, `BX Frramework`, `xFrame`   
 💡DB  
-`MySQL`  
+`MySQL`, `Oracle`   
 💡Cowork Tools  
-`GitHub`, `Slack`, `Notion`, `Confluence`, `Jira`, `Figma`
+`GitHub`, `GitLab`, `Bitbucket`, `Slack`, `Notion`, `Confluence`, `Jira`, `Figma`

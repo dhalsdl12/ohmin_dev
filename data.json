@@ -31,9 +31,16 @@
     {
       "id": 0,
       "name": "BeamWorks (빔웍스)",
-      "position": "연구개발팀 연구원(Back-end Engineer)",
+      "position": "연구개발팀\n연구원(Back-end Engineer)",
       "period": ["2023. 06. 19", "2023. 10. 27"],
       "stack": ["Python", "Django", "Django REST Framework", "Java", "Spring"]
+    },
+    {
+      "id": 1,
+      "name": "농협정보시스템",
+      "position": "경제 차세대 개발팀 \n계장",
+      "period": ["2023. 11. 13", "재직 중"],
+      "stack": ["Java", "BX Framework", "Java Script", "xFrame", "Oracle"]
     }
   ],
 
