@@ -6,8 +6,8 @@
 💡Language  
 `Python`, `C`, `Java`, `Java Script`   
 💡Framework  
-`Django`,`Django REST Framework`,`Spring`, `BX Frramework`, `xFrame`   
+`Django`,`Django REST Framework`,`Spring`, `BX Frramework`, `xFrame`, `Vue.js`  
 💡DB  
-`MySQL`, `Oracle`   
+`MySQL`, `Oracle`, `Tibero`   
 💡Cowork Tools  
 `GitHub`, `GitLab`, `Bitbucket`, `Slack`, `Notion`, `Confluence`, `Jira`, `Figma`
