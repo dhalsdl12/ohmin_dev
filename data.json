@@ -38,9 +38,9 @@
     {
       "id": 1,
       "name": "농협정보시스템",
-      "position": ["전)경제 차세대 개발팀","현)디지털서비스운영부 관리정보팀 계장"],
+      "position": ["전)경제차세대개발팀","현)디지털서비스운영부 관리정보팀 계장"],
       "period": ["2023. 11. 13", "재직 중"],
-      "stack": ["Java", "BX Framework", "Java Script", "xFrame", "Oracle"]
+      "stack": ["Java", "BX Framework", "Java Script", "xFrame", "Oracle", "Spring", "Vue.js", "Tibero"]
     }
   ],
 
@@ -119,16 +119,18 @@
     {
       "id": 2,
       "name": "알고리즘 동아리 'Gori'",
-      "period": ["2021. 09", "활동 중"],
+      "period": ["2021. 09", "2024. 02"],
       "description": ["2022 경북대학교 Goricon 알고리즘 경진대회 장려상 수상"],
-      "stack": ["Python", "알고리즘"]
+      "stack": ["Python", "알고리즘"],
+      "view":""
     },
     {
       "id": 3,
       "name": "멋쟁이 사자처럼",
-      "period": ["2023. 04", "활동 중"],
-      "description": ["경북대학교 멋쟁이 사자처럼 11기", "경북대학교 아이디어톤 3위", "멋쟁이 사자처럼 전국 해커톤 참가"],
-      "stack": ["Java", "Spring", "Figma"]
+      "period": ["2023. 01", "2023. 12"],
+      "description": ["경북대학교 멋쟁이 사자처럼 11기", "경북대학교 아이디어톤 3위", "멋쟁이 사자처럼 11기 중앙 해커톤 참가"],
+      "stack": ["Java", "Spring", "Figma"],
+      "view":""
     }
     ,
     {
@@ -137,7 +139,8 @@
       "period": ["2023. 04", "2023.08"],
       "description": ["경북대학교 창업동아리 에이블릿 대표", "2023 창업해커톤 BUNNYTHON 1위",
                       "유저 관리 기능 개발 (flask)"],
-      "stack": ["Python", "Flask", "Java", "Spring", "Figma"]
+      "stack": ["Python", "Flask", "Java", "Spring", "Figma"],
+      "view":""
     }
   ],
   
