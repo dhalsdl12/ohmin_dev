@@ -38,7 +38,7 @@
     {
       "id": 1,
       "name": "농협정보시스템",
-      "position": ["현)AX플랫폼개발센터 AI융합개발팀 계장","전)디지털서비스운영부 관리정보팀 계장","전)경제차세대개발팀"],
+      "position": ["현)AX플랫폼개발센터 AI융합개발팀","전)디지털서비스운영부 관리정보팀","전)경제차세대개발팀"],
       "period": ["2023. 11. 13", "재직 중"],
       "stack": ["Java", "BX Framework", "Java Script", "xFrame", "Oracle", "Spring", "Vue.js", "Tibero"]
     }
